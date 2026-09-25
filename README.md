@@ -28,8 +28,8 @@ The navigation changes into a mobile menu on smaller screens, and project, exper
 - `style.css` — visual design and responsive layout
 - `script.js` — mobile navigation and scroll animations
 - `assets/profile.jpg` — profile image
-- `assets/cv.pdf` — latest CV copy
-- `CV_Bagas_Nouval_Liansyah_Updated.pdf` — latest CV used by the Download CV button
+- `assets/CV_Bagas_Nouval_Liansyah.pdf` — latest CV copy
+- `assets/CV_Bagas_Nouval_Liansyah.pdf` — latest CV used by the Download CV button
 
 ## Run locally
 Open `index.html` directly in a browser or use VS Code Live Server.
